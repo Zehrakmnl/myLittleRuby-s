@@ -14,6 +14,6 @@ Rails, yalnızca Ruby kullanılarak oluşturulmuş bir çerçevedir ve içindeki
 5.BÖLÜMde
 6.BÖLÜMde (bu çalışma için son bölüm olacak) bir satranç uygulaması bulunuyor.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Mutlu Günleer</h3>
 <p align="left">
 </p>
