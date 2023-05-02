@@ -9,5 +9,5 @@ Rails, yalnızca Ruby kullanılarak oluşturulmuş bir çerçevedir ve içindeki
 2.BÖLÜMde kodlarımı yeniden kullanılabilir halinden nasıl kullanılabilineceğini OOP ile yaptım.
 3.BÖLÜMde temel bilgisayar bilimleri(veri yapıları) ve recursive yapılar bulunuyor.
 4.BÖLÜMde test odaklı denemeler var
-5.BÖLÜMde
+5.BÖLÜMde\n
 6.BÖLÜMde (bu çalışma için son bölüm olacak) bir satranç uygulaması bulunuyor.
