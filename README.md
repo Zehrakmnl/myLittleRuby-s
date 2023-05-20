@@ -12,12 +12,3 @@ projelerinizi daha başarılı hale getirmesi anlamına gelir.</h3>
 
 <h3 align="left">1.BÖLÜMde Ruby'nin temelleri hakkında her şey var.</h3>
 
-<h3 align="left">2.BÖLÜMde kodlarımı yeniden kullanılabilir halinden nasıl kullanılabilineceğini OOP ile yaptım.</h3>
-
-<h3 align="left">3.BÖLÜMde temel bilgisayar bilimleri(veri yapıları) ve recursive yapılar bulunuyor.</h3>
-
-<h3 align="left">4.BÖLÜMde test odaklı denemeler var</h3>
-
-<h3 align="left">5.BÖLÜMde</h3>
-
-<h3 align="left">6.BÖLÜMde (bu çalışma için son bölüm olacak) bir satranç uygulaması bulunuyor.</h3>
