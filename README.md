@@ -6,9 +6,8 @@ Rails, daha hızlı ve daha az baş ağrısıyla kod yazmak için optimize edild
 yapmanıza olanak tanır. Daha hızlı yineleme, nihai ürünün müşterinin veya kullanıcıların ihtiyaçlarına daha uygun olması ve 
 projelerinizi daha başarılı hale getirmesi anlamına gelir.</h3>
 
-<h3 align="left">Rails, yalnızca Ruby kullanılarak oluşturulmuş bir çerçevedir ve içindeki her kod parçası Ruby ile yazılmıştır.</h3>
-<p align="left">
-</p>
+
+
 
 <h3 align="left">1.BÖLÜMde Ruby'nin temelleri hakkında her şey var.</h3>
 
